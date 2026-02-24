@@ -1,6 +1,7 @@
 # CS320_Lab
 This is Mateus's README!
 
+<<<<<<< HEAD
 
 This is line 1a of the README file.WAAAAAA
 This is line 2b of the README file.LUUUUU
@@ -14,6 +15,8 @@ This is line 9i of the README file.WAAAAAULUIGI
 This is the line 11k of the README file
 
 
+=======
+>>>>>>> eddb4de (mateus readme)
 This is line 1 of the README file.
 This is line 2 of the README file.
 This is line 3 of the README file.
